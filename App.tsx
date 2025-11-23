@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useCallback } from 'react';
 import { useTOTP } from './hooks/useTOTP';
 import { CopyIcon, CheckIcon, ArrowLeftIcon } from './components/icons';
 
