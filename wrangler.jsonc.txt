@@ -1,0 +1,2 @@
+Membuat file konfigurasi wrangler untuk memberi tahu Cloudflare secara eksplisit bahwa aset website berada di folder 'dist'.
+<br>
