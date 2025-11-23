@@ -1,0 +1,5 @@
+{
+  "name": "2FA Authenticator App",
+  "description": "Aplikasi web yang aman dan mudah digunakan untuk menghasilkan Kata Sandi Satu Kali Berbasis Waktu (TOTP) untuk otentikasi dua faktor. Cukup masukkan kunci rahasia Anda untuk melihat kode.",
+  "requestFramePermissions": []
+}
